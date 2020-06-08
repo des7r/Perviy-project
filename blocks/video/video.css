@@ -5,4 +5,9 @@
   padding: 100px 0 0;
 }
 
-/* испортировали видео, задали отступы */
+ul {
+  margin-left:0; 
+  padding-left:0;
+  list-style-type: none;
+}
+/* эспортировали видео, задали отступы */
