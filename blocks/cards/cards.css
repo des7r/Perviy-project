@@ -5,9 +5,10 @@
 
 .cards {
   display: flex;
-  justify-content: flex-start;
   flex-wrap: wrap;
-  width: 920px;
+  justify-content: flex-start;
   margin: 0 auto;
   padding: 0;
+  width: 920px;
 }
+/* зафлексили, спозиционировали карточки */

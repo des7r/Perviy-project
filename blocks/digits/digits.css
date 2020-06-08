@@ -1,5 +1,6 @@
-.digits{
+.digits {
     display: flex;
-    margin:100px auto 100px auto;
-    flex-direction: column;  
+    flex-direction: column;
+    margin: 100px auto;
   }
+  /* зафлексили блок "цифры.. , задали отступ"*/

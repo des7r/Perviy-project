@@ -1,4 +1,5 @@
 .footer__column_content_copyright {
-    justify-content: space-between;
-    flex-basis: 711px;
-  }
+  justify-content: space-between;
+  flex-basis: 711px;
+}
+/* спозиционировали, задали флекс-базис по брифу */

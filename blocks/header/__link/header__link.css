@@ -3,6 +3,8 @@
     text-decoration: none;
 }
 
+/* сделали "ссылку" в подзаголовке*/
+
 .header__link:hover {
       opacity: 0.5;
       transition: 0.3s ease;

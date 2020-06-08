@@ -8,9 +8,9 @@
   text-decoration: none;
   color: black;
 }
-
+/* спозиционировали и настроили ссылку */
 .feynman__link:hover {
       opacity: 0.5;
       transition: 0.4s ease;
 }
-
+/* установили эффект при наведении */

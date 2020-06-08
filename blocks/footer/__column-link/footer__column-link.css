@@ -1,13 +1,12 @@
 .footer__column-link {
-    display: flex;
-    flex-direction: row;
-    margin: 0;
-    text-decoration: none;
-    color: white;
-  }
-  .footer__column-link:hover {
-    opacity: 0.5;
-    transition: 0.3s ease-in-out;
-  }
-  
-  
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  text-decoration: none;
+  color: white;
+}
+.footer__column-link:hover {
+  opacity: 0.5;
+  transition: 0.3s ease-in-out;
+}
+/* установили эффект при наведении */
